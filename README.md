@@ -1,6 +1,14 @@
 # Trust Wallet Assets Info
 
-![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
+# Listing new assets
+
+- [Add Asset](/developer/listing-new-assets/new-asset.md)
+- [Requirements](/developer/listing-new-assets/requirements.md)
+- [Pull Request Fee](/developer/listing-new-assets/pr-fee.md)
+- [FAQ](/developer/listing-new-assets/faq.md)
+- [Repository Details](/developer/listing-new-assets/repository_details.md)
+- [Universal Asset ID](/developer/listing-new-assets/universal_asset_id.md)
+[Etherscan.io 20/11/2025 17:59:13] I, hereby verify that I am the owner/creator of the address [0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a]https://etherscan.github.io/ethvalidate/token?a=0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be&c=0x12480e24eb5bec1a9d4369cab6a80cad3c0a377a96S3DASIK9Z3Z9JCHFV5H8MKIVRWR72GGH
 
 ## Overview
 
